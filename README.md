@@ -19,5 +19,5 @@ I am a B.Tech IT student (Class of 2025) focused on building scalable data pipel
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [[linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/shubham-chinchankar-72aa3a307/)
 - **Location:** Mumbai, India
